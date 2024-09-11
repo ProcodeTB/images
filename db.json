@@ -1,11 +1,15 @@
 {
 	"images2": [
 		{
-			"Image_1": null,
+			"Image_1": "caz",
 			"Description": "hro"
 		},
 		{
-			"Description": "Image_1 is removed"
+			"Image_1": null,
+			"Description": "Should not displayed: the link = null"
+		},
+		{
+			"Description": "Should not displayed: the link is missing"
 		},
 		{
 			"Image_1": "caz-001",
