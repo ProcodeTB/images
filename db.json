@@ -77,6 +77,10 @@
 		{
 			"Image_1": "https://www.w3schools.com/w3images/mountains.jpg",
 			"Description": "descr12"
+		},
+		{
+			"Image_1": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+			"Description": "descr13: VIDEO"
 		}
 	]
 }
